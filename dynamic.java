@@ -13,9 +13,10 @@ public class dynamic
 		
 		TwoDim test;
 		test=a;
-		test.display();
 		
 		test=b;
+                 test.display();
+
 		test.display();
 		
 	}
