@@ -21,7 +21,7 @@ public class DetailsButtonWithSwing
 			{
 		       public void actionPerformed(ActionEvent ae)
 		       {
-		    	   l.setText("Name-Shrutika Shaw   Course-CS   Rollno-2019345  College-SRCASW ");
+		    	   l.setText("Name-Sneha Vashishtha   Course-CS   Rollno-2019345  College-SRCASW ");
 		       }
 			};
 			
