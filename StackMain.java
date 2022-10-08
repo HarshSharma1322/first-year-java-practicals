@@ -8,7 +8,7 @@ class over_under_flow extends Exception {
 
 class Stack_Array {
 
-	static int max_size = 5;
+	static int max_size = 10;
 	int Stack[] = new int[max_size];
 
 	int sp = -1;
