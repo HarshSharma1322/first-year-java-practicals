@@ -46,7 +46,7 @@ public class Complex
  
  public static void main(String args[])
  {
-	 Complex c1=new Complex(4.2,3.2);
+	 Complex c1=new Complex(4.5,3.2);
 	 Complex c2=new Complex(2.2,6.2);
 	 Complex c3=new Complex();
 	 
