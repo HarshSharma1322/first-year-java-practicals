@@ -28,9 +28,9 @@ public void actionPerformed(ActionEvent e)  {
     String str = e.getActionCommand();	
 System.out.println("You clicked " + str + " button");  
 
-if(str.equals("Red"))
+if(str.equals("Pink"))
     {
-setBackground(Color.red);
+setBackground(Color.pink);
     }
 else if(str.equals("Blue"))
     {
